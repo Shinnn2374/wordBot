@@ -25,7 +25,12 @@
       <state>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="WordBot" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -52,6 +57,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build WordBot.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -105,6 +111,7 @@
       <workItem from="1741253816815" duration="60000" />
       <workItem from="1741253942572" duration="2680000" />
       <workItem from="1741280153104" duration="1088000" />
+      <workItem from="1741281416345" duration="2167000" />
     </task>
     <servers />
   </component>
