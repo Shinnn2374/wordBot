@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/telegram_bot
+    username: root
+    password: 603429Daxter
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+telegram:
+  bot:
+    token: 7905945256:AAFE_WSeD2NymlOyDknh38BvxPnLeWBQ7xI
+    username: WordBotTestTask_bot
